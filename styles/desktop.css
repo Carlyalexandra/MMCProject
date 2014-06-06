@@ -44,11 +44,55 @@ nav li a:active {
 	background-color: white;
 	border:solid;
 	padding: 20px;
+	border-radius: 7px;	
+}
+
+#body2 {
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color: white;
+	border:solid;
+	padding: 0px;
+	border-radius: 7px;
+	float: left;	
+}
+
+#body2 img {
+	width: auto;
+	height: auto;
+	max-width: 700px;
+}
+
+#mainContent {
+	
+}
+
+#mColumn, #mailingList {
+	float: left;
+}
+
+#mColumn, {
+	
+}
+
+#mailingList {
+	width: 200px;
+	margin-top: 20px;
+}
+
+#ibackground {
+	background-image: url(../images/trash.jpg);
+	opacity: .4;
+	height: auto;
+	width: auto;
 }
 
  br {
  	clear: both;
  }
+#impact {
+	
+}
 
 #impact li {
 	list-style-type: disc;
@@ -62,12 +106,12 @@ nav li a:active {
 	padding-top: 20px;
 	margin-bottom: 10px;
 	margin-right: 20px;
+	font-size: 17px;
 }
 
 
-
 #impact a {
-	margin-left: 50px;
+	margin-left: 30px;
 	font-size: 15px;
 	text-decoration: none;
 }
@@ -88,4 +132,6 @@ nav li a:active {
 
 footer {
 	margin-left: 40px;
+	margin-bottom: 10px;
 }
+
