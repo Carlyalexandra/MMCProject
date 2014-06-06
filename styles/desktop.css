@@ -2,6 +2,12 @@ html {
 	background-color: #f0e8e3;
 }
 
+body {
+	min-width: 900px;
+	font-family: Arial; sans-serif;
+	font-size: 14px;
+}
+
 #header {
 	width: 100%;
 	height: 150px;
@@ -42,6 +48,7 @@ nav li a:active {
 	margin-left: 40px;
 	margin-right: 40px;
 	background-color: white;
+<<<<<<< HEAD
 	border:solid;
 	padding: 20px;
 	border-radius: 7px;	
@@ -135,3 +142,65 @@ footer {
 	margin-bottom: 10px;
 }
 
+=======
+}
+
+
+
+/* BEGINNING OF PROJECT CSS */
+
+
+#howarticle {
+	float: left;
+	width: 60%;
+	padding: 50px;
+	background-color: white;
+}
+
+
+#title1, #title2, #title3 {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.byline {
+	font-style: italic;
+	padding-bottom: 8px;
+}
+
+.articlesum {
+	padding-bottom: 40px;
+}
+
+.bodyp p {
+	padding: 6px 0 6px 0;
+}
+
+#howsidebar {
+	float: left;
+	padding: 6px;
+	width: 220px;
+	height: 400px;
+	background: #559e98;
+	border-bottom-right-radius: 30px;
+}
+
+#howsidebar ul {
+	list-style-type: none;
+	margin-left: 5px;
+}
+
+#howsidebar ul li{
+	padding: 3px 0 3px 0;
+}
+
+.howsidebarbox {
+	padding: 20px;
+}
+
+#howsidebar h3{
+	font-size: 18px;
+	font-weight: bold;
+	font-style: italic;
+}
+>>>>>>> ef8ad9613de1255b9ed7b462b275f87bde7276fe
