@@ -46,8 +46,7 @@ nav li a:active {
 
 /* STYLING BEGINNING about.html styling*/
 #aboutContent {
-	width: 100%;
-	padding: 20px;
+	padding: 60px 30px 60px 30px;
 }
 #aboutContent p {
 	margin-bottom: 20px;
@@ -57,8 +56,4 @@ nav li a:active {
 	list-style-type:decimal;
 	list-style-position: inside;
 	text-indent: 30px;
-}
-
-#aCol1 {
-	width: 
 }
