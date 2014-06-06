@@ -34,8 +34,31 @@ nav li a:active {
 	color: white;
 }
 
+.currentLink {
+	color: white;
+}
+
 #body {
 	margin-left: 40px;
 	margin-right: 40px;
 	background-color: white;
+}
+
+/* STYLING BEGINNING about.html styling*/
+#aboutContent {
+	width: 100%;
+	padding: 20px;
+}
+#aboutContent p {
+	margin-bottom: 20px;
+}
+
+#aboutContent ol {
+	list-style-type:decimal;
+	list-style-position: inside;
+	text-indent: 30px;
+}
+
+#aCol1 {
+	width: 
 }
