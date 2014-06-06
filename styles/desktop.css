@@ -72,3 +72,18 @@ nav li a:active {
 	margin-left: 50px;
 	font-size: 15px;
 	text-decoration: none;
+}
+
+/* STYLING BEGINNING about.html styling*/
+#aboutContent {
+	padding: 60px 30px 60px 30px;
+}
+#aboutContent p {
+	margin-bottom: 20px;
+}
+
+#aboutContent ol {
+	list-style-type:decimal;
+	list-style-position: inside;
+	text-indent: 30px;
+}
