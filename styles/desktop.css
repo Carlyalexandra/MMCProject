@@ -39,3 +39,24 @@ nav li a:active {
 	margin-right: 40px;
 	background-color: white;
 }
+
+
+
+/* BEGINNING OF PROJECT CSS */
+
+article {
+	float: left;
+	width: :;
+	padding: 40px;
+	height: 100%;
+	background-color: white;
+}
+
+.sidebarH {
+	float: left;
+	padding: 10px;
+	background: #559e98;
+}
+.sidebarH ul {
+	list-style-type: none;
+}
