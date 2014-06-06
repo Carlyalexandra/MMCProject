@@ -9,9 +9,11 @@ body {
 }
 
 #header {
+	padding-top: 20px;
 	width: 100%;
-	height: 150px;
+	height: 125px;
 	background-color: white;
+	text-align: center;
 }
 
 nav {
@@ -33,12 +35,14 @@ nav li {
 
 nav li a {
 	text-decoration: none;
+	color: #c5f5ec;
 
 }
 
 nav li a:active {
 	color: white;
 }
+
 
 .currentLink{
 
@@ -58,21 +62,23 @@ nav li a:active {
 	border:solid;
 	padding: 0px;
 	border-radius: 7px;
-	float: left;	
+	float: left;
+	width: 90%;	
 }
 
 #body2 img {
 	width: auto;
 	height: auto;
-	max-width: 700px;
+	max-width: 600px;
 }
 
 #mainContent {
-	
+	width: 100%;
 }
 
 #mColumn, #mailingList {
 	float: left;
+
 }
 
 #mColumn, {
@@ -82,6 +88,9 @@ nav li a:active {
 #mailingList {
 	width: 200px;
 	margin-top: 20px;
+	text-align: center;
+	padding:0px 20px 0px 0px;
+	margin-left: 20px;
 }
 
 #ibackground {
@@ -152,7 +161,7 @@ footer {
 }
 
 
-#title1, #title2, #title3 {
+#title1, #title2, #title3,h2 {
 	font-size: 25px;
 	font-weight: bold;
 }
@@ -192,8 +201,30 @@ footer {
 	padding: 20px;
 }
 
-#howsidebar h3{
+#howsidebar h3, h3{
 	font-size: 18px;
 	font-weight: bold;
 	font-style: italic;
+}
+
+ #howsidebar li a {
+	text-decoration: none;
+	color: #c5f5ec;
+
+}
+
+ #howsidebar li a:active {
+	color: white;
+}
+
+#howsidebar li a:visited{
+	color: #c5f5ec;
+}
+
+h1,h2,h3 {
+	font-family: "Quicksand",sans-serif
+}
+
+h1 {
+	font-size: 
 }
