@@ -48,10 +48,7 @@ nav li a:active {
 	margin-left: 40px;
 	margin-right: 40px;
 	background-color: white;
-<<<<<<< HEAD
-	border:solid;
-	padding: 20px;
-	border-radius: 7px;	
+	border:solid;		
 }
 
 #body2 {
@@ -97,9 +94,7 @@ nav li a:active {
  br {
  	clear: both;
  }
-#impact {
-	
-}
+
 
 #impact li {
 	list-style-type: disc;
@@ -142,8 +137,7 @@ footer {
 	margin-bottom: 10px;
 }
 
-=======
-}
+
 
 
 
@@ -203,4 +197,3 @@ footer {
 	font-weight: bold;
 	font-style: italic;
 }
->>>>>>> ef8ad9613de1255b9ed7b462b275f87bde7276fe
