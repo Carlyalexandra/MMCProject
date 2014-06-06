@@ -34,14 +34,44 @@ nav li a:active {
 	color: white;
 }
 
-.currentLink {
+.currentLink{
+
 	color: white;
 }
-
 #body {
 	margin-left: 40px;
 	margin-right: 40px;
 	background-color: white;
+	border:solid;
+}
+
+ br {
+ 	clear: both;
+ }
+
+#impact li {
+	list-style-type: disc;
+	margin-left: 50px;
+	margin-bottom: 10px;
+	text-align: justify;
+	text-transform: uppercase;
+	padding: 10px;
+}
+
+#impact p {
+	margin-left: 50px;
+	padding-top: 20px;
+	margin-bottom: 10px;
+}
+
+#impact p {
+	margin-right: 30px;
+}
+
+#impact a {
+	margin-left: 50px;
+	font-size: 15px;
+	text-decoration: none;
 }
 
 /* STYLING BEGINNING about.html styling*/
