@@ -43,6 +43,7 @@ nav li a:active {
 	margin-right: 40px;
 	background-color: white;
 	border:solid;
+	padding: 20px;
 }
 
  br {
@@ -53,20 +54,17 @@ nav li a:active {
 	list-style-type: disc;
 	margin-left: 50px;
 	margin-bottom: 10px;
-	text-align: justify;
 	text-transform: uppercase;
-	padding: 10px;
 }
 
 #impact p {
-	margin-left: 50px;
+	margin-left: 30px;
 	padding-top: 20px;
 	margin-bottom: 10px;
+	margin-right: 20px;
 }
 
-#impact p {
-	margin-right: 30px;
-}
+
 
 #impact a {
 	margin-left: 50px;
@@ -86,4 +84,8 @@ nav li a:active {
 	list-style-type:decimal;
 	list-style-position: inside;
 	text-indent: 30px;
+}
+
+footer {
+	margin-left: 40px;
 }
